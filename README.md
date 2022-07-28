@@ -1,2 +1,2 @@
 # CovidApp
- Tercera aplicacion para el curso de Programacion Movil
+ Tercera aplicacion implementada para el curso de Programacion Movil

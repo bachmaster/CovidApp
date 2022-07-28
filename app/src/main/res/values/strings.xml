@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">covidApp</string>
+    <string name="WindowTitle">COVID 19 TOOL</string>
+    <string name="title">DASHBOARD</string>
+    <string name="integrantes_txt" >Elaborado por:\nBruno Chirinos Molina 20162974\nJean Pierre Soto Tipacti 20191946\nLeonardo Falcón Choque 20190702
+    </string>
+    <string name="sincronizarbtn">Sincronizar</string>
+    <string name="limpiar_btn">LIMPIAR</string>
+    <string name="ver_data_btn">VER DATA</string>
+</resources>
